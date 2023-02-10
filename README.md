@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning Javascript, react, frontend and backend ...
 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: daniel.galindo18@tectijuana.edu.mx
+
 
 | HORA | LUNES                      | MARTES                     | MIERCOLES                  | JUEVES                     | VIERNES                    |
 |------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
@@ -17,6 +16,7 @@
 | 5PM  | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      |
 | 6PM  | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    |
 
-```python
-print("Hello world")
+```javascript
+// the hello world program
+console.log('Hello World');
 ```
