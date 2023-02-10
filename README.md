@@ -17,7 +17,7 @@
 | 5PM  | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      |
 | 6PM  | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    |
 
-´´´ruby
+'''csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,4 +35,4 @@ namespace ConsoleApp1
     }
     }
 }
-´´´
+'''
