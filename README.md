@@ -17,22 +17,19 @@
 | 5PM  | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      | SISTEMAS PROGRAMABLES      |
 | 6PM  | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    | LENGUAJES Y AUTOMATAS 2    |
 
-'''csharp
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace ConsoleApp1
 {
     class Program
     {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, world!");
-        Console.ReadLine();
     }
     }
 }
-'''
+```
